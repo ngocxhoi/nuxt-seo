@@ -1,0 +1,19 @@
+:root {
+  --white-color: #fff;
+  --black-color: #000;
+  --bg-color: #183d3d;
+  --bg-light-color: #fbf9ff;
+  --text-light: #979797;
+  --pink-color: #ff008c;
+  --red-color: #ff6357;
+  --red-light-color: #ffd2cf;
+
+  --shadow-color: #ccc;
+
+  --blue-light: #f5f5ff;
+  --pink-light: #fff0f8;
+  --green-light: #effdf5;
+
+  --pagination-active: #808e9c;
+  --pagination: #334a60;
+}
